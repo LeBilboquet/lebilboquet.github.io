@@ -9,7 +9,7 @@ published: true
 post_date: 2017-06-27 21:19:46
 ---
 <h3><span style="color: #993300;"><strong>L'Equipe</strong></span></h3>
-<strong>Le Bilboquet c'est avant tout une super équipe avec</strong>
+<strong>Le Bilboquet c'est avant tout une super équipe avec;</strong>
 Amaëlle O'Brien : Présidente
 Brigitte Antenen : Directrice et programmatrice
 Simon Lambelet : responsable Technique
