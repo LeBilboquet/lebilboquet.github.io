@@ -18,7 +18,7 @@ Mireille Roth : Responsable Bénévoles
 Jean-Daniel Roth : Responsable Bar
 Carmela Grignoli-Uldry : Responsable Soirée
 Sonia Menoud : Responsable Locations
-Jérémy Klein : Site internet
+Jeremy Klein : Site internet
 Thierry Leibzig : page Facebook
 
 ...et toutes les petites fourmis du bar...
