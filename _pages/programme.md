@@ -4,7 +4,7 @@ post_title: Programme
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: http://www.lebilboquet.ch/programme/
+permalink: https://www.lebilboquet.ch/programme/
 published: true
 post_date: 2017-06-27 21:03:31
 ---

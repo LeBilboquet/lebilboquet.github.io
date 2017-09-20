@@ -4,7 +4,7 @@ post_title: L’Equipe
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: http://www.lebilboquet.ch/lequipe/
+permalink: https://www.lebilboquet.ch/lequipe/
 published: true
 post_date: 2017-06-27 21:19:46
 ---

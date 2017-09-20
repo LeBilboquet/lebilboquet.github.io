@@ -4,7 +4,7 @@ post_title: Le Bilboquet
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: http://www.lebilboquet.ch/le-bilboquet/
+permalink: https://www.lebilboquet.ch/le-bilboquet/
 published: true
 post_date: 2017-06-27 21:15:16
 ---

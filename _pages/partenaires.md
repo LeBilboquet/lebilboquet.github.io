@@ -4,7 +4,7 @@ post_title: Partenaires
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: http://www.lebilboquet.ch/partenaires/
+permalink: https://www.lebilboquet.ch/partenaires/
 published: true
 post_date: 2017-06-27 21:24:46
 ---

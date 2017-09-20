@@ -4,7 +4,7 @@ post_title: Réservations
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: http://www.lebilboquet.ch/reservations/
+permalink: https://www.lebilboquet.ch/reservations/
 published: true
 post_date: 2017-06-27 21:09:22
 ---

@@ -5,7 +5,7 @@ author: bilboadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.lebilboquet.ch/bienvenu-sur-notre-nouveau-site/
+  https://www.lebilboquet.ch/bienvenu-sur-notre-nouveau-site/
 published: true
 post_date: 2017-07-03 20:03:39
 ---
