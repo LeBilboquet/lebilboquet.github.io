@@ -4,9 +4,9 @@ post_title: Accueil
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: http://www.lebilboquet.ch/home/
+permalink: https://www.lebilboquet.ch/home/
 published: true
-post_date: 2017-06-22 19:44:49
+post_date: 2017-10-04 23:12:49
 ---
 <h3 style="text-align: center;"><strong><span style="color: #993300;">Bienvenue au Bilboquet! Nous avons voulu faire rimer nouvelle saison avec nouveau site internet!</span></strong></h3>
 <p style="text-align: center;"><span style="font-size: 1rem;">Il dirait quelque chose comme..."La Tristitiude c'est quand on passe son vendredi soir ailleurs qu'au Bilboquet!" </span></p>
