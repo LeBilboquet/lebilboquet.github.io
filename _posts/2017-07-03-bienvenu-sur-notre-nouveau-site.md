@@ -5,12 +5,13 @@ author: bilboadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.lebilboquet.ch/bienvenu-sur-notre-nouveau-site/
+  http://www.lebilboquet.ch/bienvenu-sur-notre-nouveau-site/
 published: true
 post_date: 2017-07-03 20:03:39
 ---
-<h3 style="text-align: left;"><strong><span style="color: #993300;">Bienvenue au Bilboquet! </span></strong><strong><span style="color: #993300;">Nous avons voulu faire rimer nouvelle saison avec nouveau site internet!</span></strong></h3>
-<p style="text-align: left;">Et pour bien commencer cette nouvelle saison nous vous donnons rendez vous avec Yann Lambiel et Marc Donnet-Monay pour leur création "Nous".</p>
-<p style="text-align: left;">Ils nous gratifient de leur nouvelle création à deux.</p>
-<p style="text-align: left;">N'hésitez pas et venez nous retrouver dès le 28 Septembre!</p>
-<img class="wp-image-52 size-full alignleft" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/1.Lambiel-Donnet.jpg" alt="" width="438" height="875" />
+<h3><strong>Bienvenue au Bilboquet! Nous avons voulu faire rimer nouvelle saison avec nouveau site internet!</strong></h3>
+Il dirait quelque chose comme..."La Tristitiude c'est quand on passe son vendredi soir ailleurs qu'au Bilboquet!"
+
+Oui il nous fait l'honneur de se produire chez nous et il n'attend plus que vous! Vous avez donc rendez vous pour un spectacle tout en chansons et en humour le vendredi 6 Octobre à 20:30
+
+<img class="alignnone wp-image-53 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2017/06/2.Oldelaf.jpg" alt="" width="438" height="875" />
