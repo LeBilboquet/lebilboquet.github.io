@@ -11,6 +11,6 @@ post_date: 2017-06-27 21:24:46
 <h3><span style="color: #993300;"><strong>Notre Partenaires:</strong></span></h3>
 &nbsp;
 
-[gallery columns="2" size="full" link="none" ids="203,202,237,198,201,200,197"]
+[gallery columns="2" size="full" link="none" ids="197,200,237,201,202,198,203"]
 
 [ninja_form id=6]
