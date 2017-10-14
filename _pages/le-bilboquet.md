@@ -25,7 +25,9 @@ CH-1705 Fribourg
 [wpgmza id="1"]
 <h4 style="text-align: center;"><span style="color: #993300;">Vous avez besoin d'informations techniques sur notre superbe salle?</span></h4>
 <h4 style="text-align: center;"><span style="color: #993300;">N'hésitez pas à télécharger notre plan de salle et notre fiche technique ci-dessous</span></h4>
-<p style="text-align: center;"><a href="http://www.lebilboquet.ch/wp-content/uploads/2017/10/plans_bilboquet2-1.pdf">plans_bilboquet2</a>        <a href="http://www.lebilboquet.ch/wp-content/uploads/2017/10/Fiche-technique-copie-1.pdf">Fiche technique copie</a></p>
-<img class="alignnone size-medium wp-image-672" src="http://www.lebilboquet.ch/wp-content/uploads/2017/10/Plan_de_Salle_1-186x300.png" alt="" width="186" height="300" />    <img class="alignnone size-medium wp-image-671" src="http://www.lebilboquet.ch/wp-content/uploads/2017/10/Plan_de_Salle_2-188x300.png" alt="" width="188" height="300" />
+<p style="text-align: center;"><a href="//www.lebilboquet.ch/wp-content/uploads/2017/10/plans_bilboquet2-1.pdf">plans_bilboquet2</a>        <a href="//www.lebilboquet.ch/wp-content/uploads/2017/10/Fiche-technique-copie-1.pdf">Fiche technique copie</a></p>
+                            <img class="alignnone size-medium wp-image-672" src="//www.lebilboquet.ch/wp-content/uploads/2017/10/Plan_de_Salle_1-186x300.png" alt="" width="186" height="300" />    <img class="alignnone size-medium wp-image-671" src="//www.lebilboquet.ch/wp-content/uploads/2017/10/Plan_de_Salle_2-188x300.png" alt="" width="188" height="300" />
 
-<img class="alignnone size-medium wp-image-670" src="http://www.lebilboquet.ch/wp-content/uploads/2017/10/Fiche_Technique_1-209x300.png" alt="" width="209" height="300" /> <img class="alignnone size-medium wp-image-669" src="http://www.lebilboquet.ch/wp-content/uploads/2017/10/Fiche_Technique_2-197x300.png" alt="" width="197" height="300" />
+<img class="alignnone size-medium wp-image-670" src="//www.lebilboquet.ch/wp-content/uploads/2017/10/Fiche_Technique_1-209x300.png" alt="" width="209" height="300" /> <img class="alignnone size-medium wp-image-669" src="//www.lebilboquet.ch/wp-content/uploads/2017/10/Fiche_Technique_2-197x300.png" alt="" width="197" height="300" />
+
+[ninja_form id=3]
