@@ -14,5 +14,5 @@ post_date: 2017-07-03 20:03:39
 <p style="text-align: center;">On commence avec <strong>Brigitte Rosset le 10 Novembre à 20:30</strong>. Comment? Vous ne connaissez pas Brigitte? Alors ce n'est pas compliqué, elle invite tout le monde pour son anniversaire - soyez de la fête!</p>
 <img class="aligncenter wp-image-54 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2017/06/3.Brigitte-Rosset.jpg" alt="" width="438" height="875" />
 <p style="text-align: center;"><strong>Vendredi 17 et Samedi 18 Novembre à 20:30</strong></p>
-<p style="text-align: center;">c'est au tour de <strong>Claude Inga-Barbey et Doris Ittig</strong> d'investir la scène du Bilboquet. Elles vous présenteront 2 spectacles - à la fois drôles et poignants donc n'hésitez pas une seconde et venez!</p>
+<p style="text-align: center;">C'est au tour de <strong>Claude Inga-Barbey et Doris Ittig</strong> d'investir la scène du Bilboquet. Elles vous présenteront 2 spectacles - à la fois drôles et poignants donc n'hésitez pas une seconde et venez!</p>
 <img class="aligncenter wp-image-55 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2017/06/4.Claude-Inga.jpg" alt="" width="438" height="875" />
