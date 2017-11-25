@@ -9,10 +9,11 @@ permalink: >
 published: true
 post_date: 2017-07-03 20:03:39
 ---
-<h3 style="text-align: center;"><span style="color: #993300;"><strong>Novembre arrive au Bilboquet et une fois n'est pas coutume ce sont les Filles qui sont à l'honneur!
+<h3 style="text-align: center;"><span style="color: #993300;"><strong>Novembre laisse sa place à un Décembre de folies!
 </strong></span></h3>
-<p style="text-align: center;">On commence avec <strong>Brigitte Rosset le 10 Novembre à 20:30</strong>. Comment? Vous ne connaissez pas Brigitte? Alors ce n'est pas compliqué, elle invite tout le monde pour son anniversaire - soyez de la fête!</p>
-<img class="aligncenter wp-image-54 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2017/06/3.Brigitte-Rosset.jpg" alt="" width="438" height="875" />
-<p style="text-align: center;"><strong>Vendredi 17 et Samedi 18 Novembre à 20:30</strong></p>
-<p style="text-align: center;">C'est au tour de <strong>Claude Inga-Barbey et Doris Ittig</strong> d'investir la scène du Bilboquet. Elles vous présenteront 2 spectacles - à la fois drôles et poignants donc n'hésitez pas une seconde et venez!</p>
-<img class="aligncenter wp-image-55 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2017/06/4.Claude-Inga.jpg" alt="" width="438" height="875" />
+<p style="text-align: center;">Il y' en a eu pour ces dames, il y' en a eu pour ces messieurs...Place à nos bambins! Le <strong>3 Décembre</strong> venez toutes et tous découvrir l'univers de Croco!</p>
+<p style="text-align: center;">Nous vous proposons la première séance à <strong>10:30 suivie d'un Apéro Sirops</strong> et la seconde à <strong>15:00 suivie d'un Goûter Bilbo!</strong></p>
+<img class="aligncenter wp-image-65 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/15.Rikiko.jpg" alt="" width="438" height="875" />
+<p style="text-align: center;"><strong>Vendredi 15 Décembre à 20:30</strong></p>
+<p style="text-align: center;">Ça vous dirait un spectacle sur mesure? Ça tombe bien, c'est exactement ce que <strong>Karim Slama</strong> vous propose! Un pot pourri à base des ses meilleurs sketchs et tout ça sur simple demande du public! Le rendez vous est donc pris pour une excellente soirée au Bilboquet!</p>
+<img class="aligncenter wp-image-56 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/5.Karim-Slama.jpg" alt="" width="438" height="875" />
