@@ -8,11 +8,22 @@ permalink: http://www.lebilboquet.ch/home/
 published: true
 post_date: 2017-10-04 23:12:49
 ---
-<h3 style="text-align: center;"><strong><span style="color: #993300;">Novembre laisse sa place à un Décembre de folies!</span>
+<h3><img class="size-medium wp-image-781 aligncenter" src="http://www.lebilboquet.ch/wp-content/uploads/2018/01/bonne-annee-2018-300x151.jpg" alt="" width="300" height="151" /></h3>
+<h3 style="text-align: center;"><strong><span><span style="color: #993300;">Toute l'équipe du Bilboquet vous souhaite une année 2018 spectaculaire !
+</span></span>
 </strong></h3>
-<p style="text-align: center;">Il y' en a eu pour ces dames, il y' en a eu pour ces messieurs...Place à nos bambins! Le <strong>3 Décembre</strong> venez toutes et tous découvrir l'univers de Croco!</p>
-<p style="text-align: center;">Nous vous proposons la première séance à <strong>10:30 suivie d'un Apéro Sirops</strong> et la seconde à <strong>15:00 suivie d'un Goûter Bilbo!</strong></p>
-<img class="aligncenter wp-image-65 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2017/06/15.Rikiko.jpg" alt="" width="438" height="875" />
-<p style="text-align: center;"><strong>Vendredi 15 Décembre à 20:30</strong></p>
-<p style="text-align: center;">Ça vous dirait un spectacle sur mesure? Ça tombe bien, c'est exactement ce que <strong>Karim Slama</strong> vous propose! Un pot pourri à base des ses meilleurs sketchs et tout ça sur simple demande du public! Le rendez vous est donc pris pour une excellente soirée au Bilboquet!</p>
-<img class="aligncenter wp-image-56 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2017/06/5.Karim-Slama.jpg" alt="" width="438" height="875" />
+<p style="text-align: center;">Vous avez passés de superbes fêtes de fin d'année en famille et avec vos amis. Vous avez aussi décidé de prendre de bonnes résolutions parmi lesquelles vous vous êtes surement dits :</p>
+
+<h5 style="text-align: center;"><span style="color: #ff6600;"><strong>"En 2018 j'irai plus souvent au Bilboquet"</strong></span></h5>
+<p style="text-align: center;">Pour vous aider et vous soutenir dans votre démarche nous vous donnons rendez vous pour le premier spectacle de l'année</p>
+<p style="text-align: center;"><span style="color: #993300;"><strong>le vendredi 19 Janvier 2018 à 20:30</strong> <strong>pour le match Molière - Montfaucon avec Lionel Frésard</strong></span></p>
+<p style="text-align: center;">Un match? au Bilboquet? mais de quoi s'agit il? En une phrase il s'agit d'un hommage au théâtre, au Jura Suisse et au foot. Venez nombreux découvrir ce spectacle inédit!</p>
+<img class="aligncenter wp-image-57 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/6.Lionel-Fresard.png" alt="" width="438" height="875" />
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>Ce spectacle affiche complet! Merci de votre fidélité!</strong></span></p>
+<p style="text-align: center;">Mais attention ce n'est pas tout. Un artiste arrivant rarement seul au Bilboquet nous continuerons notre démarrage en 2018 avec un artiste qui va vous raconter à quel point ca <span style="color: #993300;"><strong>Fait chier d'être vieux</strong></span>!  Pour découvrir ce spectacle qui parlera certainement à tout le monde rejoignez nous</p>
+<p style="text-align: center;"><span style="color: #993300;"><strong>le vendredi 26 Janvier 2018 et laissez vous surprendre par Jacques Bonvin</strong></span></p>
+<img class="aligncenter wp-image-58 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/7.Jacques-Bonvin.jpg" alt="" width="438" height="875" />
+
+&nbsp;
+
+&nbsp;
