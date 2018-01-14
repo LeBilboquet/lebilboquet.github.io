@@ -23,4 +23,5 @@ post_date: 2017-07-03 20:03:39
 <img class="aligncenter wp-image-57 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2017/06/6.Lionel-Fresard.png" alt="" width="438" height="875" />
 <p style="text-align: center;">Mais attention ce n'est pas tout. Un artiste arrivant rarement seul au Bilboquet nous continuerons notre démarrage en 2018 avec un artiste qui va vous raconter à quel point ca <span style="color: #993300;"><strong>Fait chier d'être vieux</strong></span>!  Pour découvrir ce spectacle qui parlera certainement à tout le monde rejoignez nous</p>
 <p style="text-align: center;"><span style="color: #993300;"><strong>le vendredi 26 Janvier 2018 et laissez vous surprendre par Jacques Bonvin</strong></span></p>
+<p style="text-align: center;"><span style="color: #ff0000;">Ce spectacle affiche aussi complet! 2 fois plus de merci pour votre fidélité!</span></p>
 <img class="aligncenter wp-image-58 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2017/06/7.Jacques-Bonvin.jpg" alt="" width="438" height="875" />
