@@ -8,22 +8,20 @@ permalink: http://www.lebilboquet.ch/home/
 published: true
 post_date: 2017-10-04 23:12:49
 ---
-<h3><img class="size-medium wp-image-781 aligncenter" src="http://www.lebilboquet.ch/wp-content/uploads/2018/01/bonne-annee-2018-300x151.jpg" alt="" width="300" height="151" /></h3>
-<h3 style="text-align: center;"><strong><span><span style="color: #993300;">Toute l'équipe du Bilboquet vous souhaite une année 2018 spectaculaire !
-</span></span>
+<h3 style="text-align: center;"><strong><span style="color: #993300;">Toute l'équipe du Bilboquet vous souhaite une année 2018 spectaculaire !
+</span>
 </strong></h3>
-<p style="text-align: center;">Vous avez passés de superbes fêtes de fin d'année en famille et avec vos amis. Vous avez aussi décidé de prendre de bonnes résolutions parmi lesquelles vous vous êtes surement dits :</p>
-
-<h5 style="text-align: center;"><span style="color: #ff6600;"><strong>"En 2018 j'irai plus souvent au Bilboquet"</strong></span></h5>
-<p style="text-align: center;">Pour vous aider et vous soutenir dans votre démarche nous vous donnons rendez vous pour le premier spectacle de l'année</p>
-<p style="text-align: center;"><span style="color: #993300;"><strong>le vendredi 19 Janvier 2018 à 20:30</strong> <strong>pour le match Molière - Montfaucon avec Lionel Frésard</strong></span></p>
-<p style="text-align: center;">Un match? au Bilboquet? mais de quoi s'agit il? En une phrase il s'agit d'un hommage au théâtre, au Jura Suisse et au foot. Venez nombreux découvrir ce spectacle inédit!</p>
-<img class="aligncenter wp-image-57 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/6.Lionel-Fresard.png" alt="" width="438" height="875" />
-<p style="text-align: center;"><span style="color: #ff0000;"><strong>Ce spectacle affiche complet! Merci de votre fidélité!</strong></span></p>
-<p style="text-align: center;">Mais attention ce n'est pas tout. Un artiste arrivant rarement seul au Bilboquet nous continuerons notre démarrage en 2018 avec un artiste qui va vous raconter à quel point ca <span style="color: #993300;"><strong>Fait chier d'être vieux</strong></span>!  Pour découvrir ce spectacle qui parlera certainement à tout le monde rejoignez nous</p>
-<p style="text-align: center;"><span style="color: #993300;"><strong>le vendredi 26 Janvier 2018 et laissez vous surprendre par Jacques Bonvin</strong></span></p>
-<img class="aligncenter wp-image-58 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/7.Jacques-Bonvin.jpg" alt="" width="438" height="875" />
+<p style="text-align: center;">Maintenant que vous avez eu droit à un sandwich cuisiné en direct et que vous savez à quel point "fait chier d'être vieux" nous allons faire une pause bien méritée...ah non pardon...en fait on va continuer de plus belle!</p>
+<p style="text-align: center;">Place aux Petits! Ils nous ont manqué depuis Décembre! Alors rien que pour eux nous avons le plaisir d'accueillir la <span style="color: #993300;"><strong>Compagnie du Rouge-Gorge</strong></span> qui vous propose le spectacle <span style="color: #993300;"><strong>Trompette le petit éléphant</strong></span>. Trompette est un petit éléphant avec lequel  vous allez redécouvrir le sens de l'amitié.</p>
+<p style="text-align: center;">Venez donc nombreux le <strong><span style="color: #993300;">04 Février 2018</span> </strong>pour deux représentations à
+<span style="color: #993300;"><strong>10:30</strong> </span>suivi du traditionnel apéro sirop
+<strong><span style="color: #993300;">15:00</span> </strong>suivi d'un goûter Pain Chocolat</p>
+<p style="text-align: center;"></p>
+<img class="aligncenter wp-image-66 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/16.Trompette.jpg" alt="" width="438" height="875" />
 
 &nbsp;
+<p style="text-align: center;">Nous vous donnons ensuite rendez vous les <span style="color: #993300;"><strong>vendredi 23 et samedi 24 Février</strong></span> pour voir en avant-première le nouveau spectacle de Nicolas Haut.</p>
+<p style="text-align: center;">Il s'agit là de sa dernière création, réfléchie, mûrie et mise en scène au Bilboquet qu'il se fera un plaisir de vous présenter à <strong><span style="color: #993300;">20:30</span></strong><span style="color: #000000;">.</span></p>
+<img class="aligncenter wp-image-59 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/8.Nicolas-Haut.jpg" alt="" width="438" height="875" />
 
 &nbsp;
