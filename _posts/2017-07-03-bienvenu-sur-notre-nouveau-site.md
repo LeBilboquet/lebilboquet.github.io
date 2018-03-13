@@ -9,10 +9,10 @@ permalink: >
 published: true
 post_date: 2017-07-03 20:03:39
 ---
-<p style="text-align: center;">Et de 1 avec Laurent Nicolet! Lui n'a même pas eu peur...et vous?</p>
-<p style="text-align: center;">En tout cas n'ayez pas peur nous tenons nos promesses en enchaînant directement avec le spectacle numéro 2 du mois.</p>
-<p style="text-align: center;">Nous continuons avec un visage connu et un bientôt connu.<span style="color: #993300;"><strong> Isabeau de R</strong> </span>revient au Bilboquet avec une pièce dans laquelle vous vous retrouverez certainement. Avec la complicité de <span style="color: #993300;"><strong>Jean Christophe Parquier</strong></span> vous allez voir comment un événement anodin peut resurgir au quotidien bien des années après...</p>
-<p style="text-align: center;">Venez donc partager ce bon moment avec nous! Cela se passera  <span style="color: #993300;"><strong>le vendredi 9 Mars à 20:30 au Bilboquet</strong></span></p>
-&nbsp;
+<p style="text-align: center;">Et de 2 avec Scènes de Mariage ... bon sinon elle était Out au final?</p>
+<p style="text-align: center;">Un grand merci à <span style="color: #993300;"><strong>Isabeau de R et Jean Christophe Parquier</strong></span> pour cette mise en scène de nos morceaux de vie!</p>
+<p style="text-align: center;">Après 2 vient 3...logique me direz vous...tout aussi logique vous allez retrouver des artistes que vous connaissez. Ils reviennent lancer une machin en votre compagnie et sont bien décider à vous plaire par tous les moyens...seul hic les <strong><span style="color: #993300;">Décaféinés</span></strong> ne sont pas d'accord sur l'approche à adopter...</p>
+<p style="text-align: center;">Venez les aider à trouver la manière dont ils VOUS plairont! Cela se passera  <span style="color: #993300;"><strong>le vendredi 16 Mars à 20:30 au Bilboquet</strong></span></p>
+<img class="aligncenter wp-image-62 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/11.Les-Decafeines.jpg" alt="" width="438" height="875" />
 
-<strong style="color: #993300; text-align: center;"><img class="aligncenter wp-image-61 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/10.Scene-de-Mariage.jpg" alt="" width="438" height="875" /></strong>
+<strong style="color: #993300; text-align: center;"> </strong>
