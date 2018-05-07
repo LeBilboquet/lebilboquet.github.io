@@ -9,11 +9,11 @@ permalink: >
 published: true
 post_date: 2017-07-03 20:03:39
 ---
-<p style="text-align: center;">En avril ne te découvre pas d'un fil - dit l'adage - sauf quand il s'agit de s'installer au Bilboquet!</p>
-<p style="text-align: center;">Nous clôturons notre saison ce week-end avec la <span style="color: #993300;"><strong>Compagnie des Plumés</strong></span>. Mais de quoi s'agit-il? Si on vous dit qu'il y' aura des plumes et des graines sur scène...est ce que l'on a piqué votre curiosité?</p>
-<p style="text-align: center;">Venez donc en <span style="color: #993300;"><strong>Prendre de la Graine</strong></span> lors de 2 représentations à <span style="color: #993300;"><strong>10:30</strong></span> le matin (complet) et <strong><span style="color: #993300;">15:00</span></strong> <span style="color: #993300;"><strong>le dimanche 29 Avril</strong></span> et clore en beauté cette saison à nos côtés!</p>
-<p style="text-align: center;">Comme à chaque fois pour nos spectacles famille nous serons ravi de partager un Apréo Sirop et Goûter de rigueur.</p>
-<p style="text-align: center;"><span style="color: #ff0000;"><strong>IMPORTANT: les deux représentations sont complètes</strong></span></p>
-<img class="aligncenter wp-image-67 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/06/17.Les-Emplumes.png" alt="" width="438" height="875" />
+<h6 style="text-align: center;"><img class="aligncenter wp-image-1013 size-medium" src="http://www.lebilboquet.ch/wp-content/uploads/2017/07/merci-300x154.jpg" alt="" width="300" height="154" /></h6>
+<p style="text-align: center;"><strong><span style="color: #993300;">Une saison ne peut pas être bouclée sans vous remercier! </span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #993300;">V</span></strong><strong><span style="color: #993300;">ous, Cher Public, sans qui notre aventure ne serait pas possible.</span></strong>
 
-<strong style="color: #993300; text-align: center;"> </strong>
+<strong><span style="color: #993300;">Rien que pour cela vous le méritez tout autant que les artistes qui se sont relayés pour notre plus grand plaisir. </span></strong></p>
+<p style="text-align: center;"><strong><span style="color: #993300;">Le vrai plaisir ne valant que s'il est partagé par tous, restez à l'affut de nos nouvelles, </span></strong><strong><span style="color: #993300;">vous allez très vite recevoir notre nouveau programme pour une autre saison haute en couleurs!</span></strong></p>
+
+<h6><img class="aligncenter wp-image-1013 size-medium" src="http://www.lebilboquet.ch/wp-content/uploads/2017/07/merci-300x154.jpg" alt="" width="300" height="154" /></h6>
