@@ -48,8 +48,14 @@ Facebook: https://www.facebook.com/bablesway/</pre>
 </span>
 <strong><span style="color: #000000;">Vendredi 29 Juin 2018 à 20:00
 </span></strong>
-<span style="color: #000000;"><strong>Réservation</strong> <a class="" href="http://www.lasecte.ch/">www.lasecte.ch</a> 
+<span style="color: #000000;"><strong>Réservation</strong> <a class="" href="http://www.lasecte.ch/">www.lasecte.ch</a>
+
 </span></pre>
+<span style="color: #000000;"><span class="">Venez découvrir l'humoriste français Daniel Camus, produit par la Secte du Rire ! </span><br class="" /><br class="" /><span class="">Daniel Camus est une star montante en France. En effet, il a déjà fait la première partie de grands artistes comme Gad Elmaleh, Anne Roumanoff et d'autres encore. Son spectacle "Adopte" est déjà un franc succès en France et beaucoup de ses dates affichent complet. </span><br class="" /><br class="" /><span class="">N'attendez pas pour prendre vos places !</span><br class="" /><span class="">Ouverture des portes à 19h00, spectacle à 20h00</span>
+</span>
+
+<img class="aligncenter wp-image-1028 size-medium" src="http://www.lebilboquet.ch/wp-content/uploads/2018/05/Affiche-Programme-OFF-200x300.jpg" alt="" width="200" height="300" />
+
 </div>
 </div>
 </div>
@@ -59,5 +65,6 @@ Facebook: https://www.facebook.com/bablesway/</pre>
 
 <hr />
 
-<h3><span style="color: #993300;"><strong>Hors Saison? Pourquoi pas chez nous?</strong></span></h3>
+<span style="color: #993300;"><strong>Hors Saison? Pourquoi pas chez nous?</strong></span>
+
 [ninja_form id=5]
