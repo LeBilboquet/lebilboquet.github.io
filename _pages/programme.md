@@ -8,5 +8,5 @@ permalink: http://www.lebilboquet.ch/programme/
 published: true
 post_date: 2017-06-27 21:03:31
 ---
-<h3><strong><span style="color: #993300;">Programme 2017-2018</span></strong></h3>
+<h3><strong>Programme 2018-2019</strong></h3>
 [gallery size="full" columns="1" ids="1063,1064,1065,1066,1067,1068,1069,1070,1071,1072,1073,1074,1075,1076,1077,1078,1079,1080"]
