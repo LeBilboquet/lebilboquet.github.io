@@ -8,7 +8,7 @@ permalink: http://www.lebilboquet.ch/hors-saison/
 published: true
 post_date: 2017-07-03 18:48:48
 ---
-<h4 style="text-align: center;"><span style="color: #800000;">Et c'est parti pour les Hors Saisons! Le Bilboquet est ravi d'accueillir...</span></h4>
+<h4 style="text-align: center;">Et c'est parti pour les Hors Saisons! Le Bilboquet est ravi d'accueillir...</h4>
 <pre style="text-align: center;"><strong>Vernissage de l'EP "Sunrise" du groupe Bable's</strong> 
 Concert Gratuit - Groupe Fribourgeois
 
@@ -16,13 +16,13 @@ Concert Gratuit - Groupe Fribourgeois
 
 Contact : <a href="mailto:contact@bables.ch">contact@bables.ch</a>
 Facebook: https://www.facebook.com/bablesway/</pre>
-<div class="">
-<div class="">
+<div>
+<div>
 <div class="gmail_quote">
-<div class="">
+<div>
 <div class="gmail_quote">
-<div class="">
-<div class="">
+<div>
+<div>
 <p style="text-align: center;">Curieux et passionnés sont invités pour ce voyage dans l'univers de Bable's. Découvrez leurs derniers morceaux, doux mélange entre Groove Pop et Folk. Une jam d'après-concert accompagnera la soirée.</p>
 
 <pre style="text-align: center;">20H00 Ouverture des portes &amp; Apéro
@@ -48,10 +48,15 @@ Facebook: https://www.facebook.com/bablesway/</pre>
 </span>
 <strong><span style="color: #000000;">Vendredi 29 Juin 2018 à 20:00
 </span></strong>
-<span style="color: #000000;"><strong>Réservation</strong> <a class="" href="http://www.lasecte.ch/">www.lasecte.ch</a>
+<span style="color: #000000;"><strong>Réservation</strong> <a href="http://www.lasecte.ch/">www.lasecte.ch</a>
 
 </span></pre>
-<span style="color: #000000;"><span class="">Venez découvrir l'humoriste français Daniel Camus, produit par la Secte du Rire ! </span><br class="" /><br class="" /><span class="">Daniel Camus est une star montante en France. En effet, il a déjà fait la première partie de grands artistes comme Gad Elmaleh, Anne Roumanoff et d'autres encore. Son spectacle "Adopte" est déjà un franc succès en France et beaucoup de ses dates affichent complet. </span><br class="" /><br class="" /><span class="">N'attendez pas pour prendre vos places !</span><br class="" /><span class="">Ouverture des portes à 19h00, spectacle à 20h00</span>
+<span style="color: #000000;">Venez découvrir l'humoriste français Daniel Camus, produit par la Secte du Rire !
+
+Daniel Camus est une star montante en France. En effet, il a déjà fait la première partie de grands artistes comme Gad Elmaleh, Anne Roumanoff et d'autres encore. Son spectacle "Adopte" est déjà un franc succès en France et beaucoup de ses dates affichent complet.
+
+N'attendez pas pour prendre vos places !
+Ouverture des portes à 19h00, spectacle à 20h00
 </span>
 
 <img class="aligncenter wp-image-1028 size-medium" src="http://www.lebilboquet.ch/wp-content/uploads/2018/05/Affiche-Programme-OFF-200x300.jpg" alt="" width="200" height="300" />
