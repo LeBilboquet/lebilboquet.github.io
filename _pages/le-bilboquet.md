@@ -19,7 +19,7 @@ Trolleybus 7 (Les Cliniques) depuis la gare
 <strong>Adresse Postale</strong>:
 Café-Théâtre Le Bilboquet
 Route de la Fonderie 8b
-cp 63
+cp 244
 CH-1705 Fribourg
 
 [wpgmza id="1"]
