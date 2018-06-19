@@ -10,13 +10,11 @@ post_date: 2017-06-27 21:09:22
 ---
 <h3><span style="color: #993300;"><strong>Réservations / Billetterie</strong></span></h3>
 Vous avez la possibilité de réserver
-
-Fribourg Tourisme a - Tél. 026 350 11 00
-
-Directement sur ce site - www.lebilboquet.ch
-
-via la FNAC Fribourg - www.ch.fnacspectacles.com
-
+<ul>
+ 	<li>Fribourg Tourisme a - Tél. 026 350 11 00</li>
+ 	<li>Directement sur ce site - www.lebilboquet.ch</li>
+ 	<li>via la FNAC Fribourg - www.ch.fnacspectacles.com</li>
+</ul>
 Réservations de toute dernière minute le jour du spectacle directement à la caisse du soir.
 
 Si vous souhaitez réserver pour plus de 6 personnes, merci de contacter directement la billetterie de Fribourg Tourisme.
