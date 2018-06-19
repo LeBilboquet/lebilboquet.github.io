@@ -16,4 +16,4 @@ post_date: 2017-07-03 20:03:39
 <h3 style="text-align: center;"><span style="color: #000000;"><strong>A vos agendas poutr réserver d'ores et déjà quelques soirées pleines de promesses!</strong></span></h3>
 &nbsp;
 
-<img class="wp-image-1087 alignnone" src="http://www.lebilboquet.ch/wp-content/uploads/2017/07/PetitBilbo2-150x150.jpg" alt="" width="80" height="97" />                                                                                 <img class="alignnone size-thumbnail wp-image-1102" src="http://www.lebilboquet.ch/wp-content/uploads/2017/07/PetitBilbo5-150x150.jpg" alt="" width="150" height="150" />
+<img class="wp-image-1087 alignnone" src="http://www.lebilboquet.ch/wp-content/uploads/2017/07/PetitBilbo2-150x150.jpg" alt="" width="80" height="97" />                                                                                 <img class="alignnone wp-image-1102" src="http://www.lebilboquet.ch/wp-content/uploads/2017/07/PetitBilbo5-150x150.jpg" alt="" width="80" height="96" />
