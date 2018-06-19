@@ -9,8 +9,6 @@ published: true
 post_date: 2017-06-27 21:24:46
 ---
 <h3><span style="color: #993300;"><strong>Notre Partenaires:</strong></span></h3>
-&nbsp;
-
-[gallery columns="2" size="full" link="none" ids="197,200,237,201,202,198,203"]
+<img class="aligncenter wp-image-1057 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/PageSponsor.jpg" alt="" width="522" height="401" />
 
 [ninja_form id=6]
