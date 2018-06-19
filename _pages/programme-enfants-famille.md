@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2018-06-19 20:52:27
 ---
+[gallery columns="1" size="full" ids="1047,1052"]
