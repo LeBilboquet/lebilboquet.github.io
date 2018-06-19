@@ -13,7 +13,7 @@ post_date: 2017-06-27 21:19:46
 
 Amaëlle O'Brien : Présidente
 Brigitte Antenen : Directrice et Programmatrice
-Simon Lambelet : responsable Technique
+Simon Lambelet : Responsable Technique
 Anne-Catherine Pharisa : Responsable Caisse
 Mireille Roth : Responsable Bénévoles
 Jean-Daniel Roth : Responsable Bar
