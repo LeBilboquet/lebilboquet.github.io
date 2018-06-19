@@ -4,12 +4,18 @@ post_title: Réservations
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: https://www.lebilboquet.ch/reservations/
+permalink: http://www.lebilboquet.ch/reservations/
 published: true
 post_date: 2017-06-27 21:09:22
 ---
 <h3><span style="color: #993300;"><strong>Réservations / Billetterie</strong></span></h3>
-Vous avez la possibilité de réserver auprès de la billetterie de Fribourg Tourisme au <strong>026 350 11 00</strong> ou directement sur ce site.
+Vous avez la possibilité de réserver
+
+Fribourg Tourisme a - Tél. 026 350 11 00
+
+Directement sur ce site - www.lebilboquet.ch
+
+via la FNAC Fribourg - www.ch.fnacspectacles.com
 
 Réservations de toute dernière minute le jour du spectacle directement à la caisse du soir.
 
@@ -24,4 +30,6 @@ Si les billets réservés dans les 48 heures précédant la représentation ne s
 • Les billets ne sont ni échangés, ni remboursés.
 • Les places ne sont pas numérotées.
 • Ouverture caisse et bar: 1 h avant le spectacle
+
+&nbsp;
 <h3><span style="color: #993300;"><strong>Réservation:</strong></span></h3>
