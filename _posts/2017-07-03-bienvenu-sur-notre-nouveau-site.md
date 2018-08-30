@@ -9,9 +9,7 @@ permalink: >
 published: true
 post_date: 2017-07-03 20:03:39
 ---
-<h3 style="text-align: center;"><span style="color: #000000;"><img class="aligncenter wp-image-1121 size-medium" src="http://www.lebilboquet.ch/wp-content/uploads/2017/07/BasdePage-300x211.jpg" alt="" width="300" height="211" /></span></h3>
-<h3 style="text-align: center;"><span style="color: #000000;">Et c'est reparti Mesdames et Messieurs! </span></h3>
-<h3 style="text-align: center;"><span style="color: #000000;">Le nouveau programme est enfin arrivé - le Bilboquet va reprendre du service!</span></h3>
-<h3 style="text-align: center;"><span style="color: #000000;">Voilà rien que pous vous une nouvelle saison qui va débuter!</span></h3>
-<h3 style="text-align: center;"><span style="color: #000000;">Encore une fois elle sera pleine de surprises, de rires, d'émotions...le tout pour votre plus grand plaisir.</span></h3>
-<h3 style="text-align: center;"><span style="color: #000000;">A vos agendas pour réserver d'ores et déjà quelques soirées pleines de promesses!</span></h3>
+<p style="text-align: center;">Le bal est ouvert pour cette nouvelle saison. Vous avez reçu vos programmes, vous avez déjà réservé quelques dates en avant première.</p>
+<p style="text-align: center;">La question principale reste la suivante: êtes vous prêt(e)s pour la Revu de Presse Suisse de <span style="color: #993300;"><strong>Christophe Alévêque</strong></span>?</p>
+<p style="text-align: center;">Rendez vous donc le <span style="color: #993300;"><b>vendredi 28 Septembre à 20:30</b></span> pour découvrir SA version de la revue de presse à la mode Suisse. Ça promet!</p>
+<img class="alignnone wp-image-1040 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page2.jpg" alt="" width="1279" height="452" />
