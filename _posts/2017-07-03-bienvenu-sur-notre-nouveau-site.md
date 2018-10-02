@@ -9,7 +9,9 @@ permalink: >
 published: true
 post_date: 2017-07-03 20:03:39
 ---
-<p style="text-align: center;">Mesdames et Messieurs, le bal est ouvert pour cette nouvelle saison. Vous avez reçu vos programmes et avez déjà réservé quelques dates en avant première.</p>
-<p style="text-align: center;">La question principale reste la suivante: êtes vous prêt(e)s pour la Revue de Presse Suisse de <span style="color: #993300;"><strong>Christophe Alévêque</strong></span>?</p>
-<p style="text-align: center;">Rendez vous donc le <span style="color: #993300;"><b>vendredi 28 Septembre à 20:30</b></span> pour découvrir SA version de la revue de presse à la mode Suisse. Ça promet!</p>
-<img class="alignnone wp-image-1040 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page2.jpg" alt="" width="1279" height="452" />
+<p style="text-align: center;">Une revue de presse Suisse et Fribourgeoise haute en couleurs! Merci Mr. Alèvêque!</p>
+<p style="text-align: center;">La saison s’est ouverte sur les chapeaux de roues! Place nette maintenant et voici une suite des plus inattendues. Vous avez rendez vous avec Jésus Christ qui vous donne le Secret de sa réussite.</p>
+<p style="text-align: center;">une pièce avec  <span style="color: #993300;"><strong>David Chassot &amp; Claude Blanc</strong></span></p>
+<p style="text-align: center;">Rendez vous donc le <span style="color: #993300;"><b>vendredi 5 Octobre à 20:30</b></span> pour une conférence hors du commun.</p>
+<p style="text-align: center;"></p>
+&nbsp;
