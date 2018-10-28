@@ -8,7 +8,7 @@ permalink: http://www.lebilboquet.ch/hors-saison/
 published: true
 post_date: 2017-07-03 18:48:48
 ---
-<h4 style="text-align: center;">Et c'est parti pour les Hors Saisons! Le Bilboquet est ravi d'accueillir...</h4>
+<h4 style="text-align: center;"><span style="color: #800000;">Et c'est parti pour les Hors Saisons! Le Bilboquet est ravi d'accueillir...</span></h4>
 <pre style="text-align: center;"><strong>Esprit Soul Edition#1 </strong>
 Soirée Concert - entrée 8,- CHF
 
