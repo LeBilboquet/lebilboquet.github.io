@@ -9,64 +9,26 @@ published: true
 post_date: 2017-07-03 18:48:48
 ---
 <h4 style="text-align: center;">Et c'est parti pour les Hors Saisons! Le Bilboquet est ravi d'accueillir...</h4>
-<pre style="text-align: center;"><strong>Vernissage de l'EP "Sunrise" du groupe Bable's</strong> 
-Concert Gratuit - Groupe Fribourgeois
+<pre style="text-align: center;"><strong>Esprit Soul Edition#1 </strong>
+Soirée Concert - entrée 8,- CHF
 
-<strong>Vendredi 22 Juin 2018 à 20h00</strong>
+<strong>Samedi 10 Novembre 2018 à 20:00
+</strong><b>Ouverture des portes à 19:30</b>
 
-Contact : <a href="mailto:contact@bables.ch">contact@bables.ch</a>
-Facebook: https://www.facebook.com/bablesway/</pre>
-<div>
-<div>
-<div class="gmail_quote">
-<div>
-<div class="gmail_quote">
-<div>
-<div>
-<p style="text-align: center;">Curieux et passionnés sont invités pour ce voyage dans l'univers de Bable's. Découvrez leurs derniers morceaux, doux mélange entre Groove Pop et Folk. Une jam d'après-concert accompagnera la soirée.</p>
+Contact : <a href="mailto:contact@focusrecords.ch">contact@focusrecords.ch</a>
 
-<pre style="text-align: center;">20H00 Ouverture des portes &amp; Apéro
-21H Concert Bable's
-22H30 JAM</pre>
-<p style="text-align: center;">Le fil rouge de Bable's? La fusion de deux voix qui racontent la vie à leur manière : les textes évoquent rêves et réflexions, le fait de ne pas être seul ou simplement d'avancer en confiance. Alors que les sonorités se mélangent, la douceur et la force dansent, et ce, tout en finesse!</p>
-<p style="text-align: center;">De 2013 jusqu'à l'hiver passé, les morceaux étaient travaillés en duo. Aujourd'hui nous sommes ultra heureux de vous dévoiler nos nouvelles compositions, fruits de six forces créatrices.</p>
-<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Note</strong></span> : Le premier verre est offert!</p>
-<img class="aligncenter wp-image-1025 size-medium" src="http://www.lebilboquet.ch/wp-content/uploads/2018/05/Bables-sunrise_cover_CMJN-300x300.jpg" alt="" width="300" height="300" />
+</pre>
+<p style="text-align: center;">À tous les curieux et amateurs de musique, le label musical FOCUS RECORDS vous propose une découverte artistique dans une ambiance intime sur un fond Soul. 5 artistes des 4 coins de la Suisse se présenteront sur la scène du BILBOQUET et vous feront voyager le temps d'une soirée.</p>
 
-</div>
-</div>
-</div>
-</div>
-<div class="page" title="Page 2">
-<div class="layoutArea">
-<div class="column" style="text-align: center;">
-
-<hr />
-
-<pre><strong><span style="color: #000000;">Adopte</span></strong>
-<span style="color: #000000;">Spectacle de Daniel Camus / Mise en scène Mathilde Moreau
-</span>
-<strong><span style="color: #000000;">Vendredi 29 Juin 2018 à 20:00
-</span></strong>
-<span style="color: #000000;"><strong>Réservation</strong> <a href="http://www.lasecte.ch/">www.lasecte.ch</a>
-
-</span></pre>
-<span style="color: #000000;">Venez découvrir l'humoriste français Daniel Camus, produit par la Secte du Rire !
-
-Daniel Camus est une star montante en France. En effet, il a déjà fait la première partie de grands artistes comme Gad Elmaleh, Anne Roumanoff et d'autres encore. Son spectacle "Adopte" est déjà un franc succès en France et beaucoup de ses dates affichent complet.
-
-N'attendez pas pour prendre vos places !
-Ouverture des portes à 19h00, spectacle à 20h00
-</span>
-
-<img class="aligncenter wp-image-1028 size-medium" src="http://www.lebilboquet.ch/wp-content/uploads/2018/05/Affiche-Programme-OFF-200x300.jpg" alt="" width="200" height="300" />
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<div dir="auto" style="text-align: center;"><b>Artistes</b>: ⁣</div>
+<div dir="auto" style="text-align: center;">⁣- Raki (Valais)⁣</div>
+<div dir="auto" style="text-align: center;">- Aïna (Fribourg)⁣</div>
+<div dir="auto" style="text-align: center;">- Théodore Tramasure (Genève)⁣ ⁣</div>
+<div dir="auto" style="text-align: center;"></div>
+<div dir="auto" style="text-align: center;"><b>Invités</b>: ⁣</div>
+<div dir="auto" style="text-align: center;">⁣- Woodi (Fribourg)⁣</div>
+<div dir="auto" style="text-align: center;">- Caroline Alves (Bienne)</div>
+<div dir="auto" style="text-align: center;"><img class="aligncenter wp-image-1372 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/10/8E8129FA-F72C-4367-B616-62BE21E561A0.jpeg" alt="" width="794" height="1123" />⁣</div>
 
 <hr />
 
