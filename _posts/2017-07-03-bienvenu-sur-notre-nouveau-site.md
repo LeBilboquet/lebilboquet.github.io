@@ -20,7 +20,8 @@ post_date: 2017-07-03 20:03:39
 <p style="text-align: center;">Après les Diptik, la scène deviendra pour un soir un Cabaret avec <span style="color: #993300;"><b>Jenny Lorant &amp; Co pour les Sœurs Semelles</b></span>! cela se passer le <span style="color: #993300;"><b>vendredi 16 Novembre à 20:30</b></span></p>
 <p style="text-align: center;"><img class="aligncenter wp-image-1068 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page5-1.jpg" alt="" width="1279" height="452" /></p>
 <p style="text-align: center;">Pour les fans de Kaamelott, vous le connaissez en tant que tavernier. Cette fois-ci en revanche ils revient avec sa complice pour vous parlez et surtout pour fêter leur divorce.</p>
-<p style="text-align: center;">Rendez vous avec ToizéMoi le                                                 <span style="color: #993300;"><b>vendredi 23 Novembre à 20:30</b></span></p>
+<p style="text-align: center;">Rendez vous avec ToizéMoi</p>
+<p style="text-align: center;"><span style="color: #993300;"><b>Vendredi 23 Novembre à 20:30</b></span></p>
 <img class="aligncenter wp-image-1069 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page6-1.jpg" alt="" width="1279" height="451" />
 <p style="text-align: center;"><span style="color: #993300;"><b><u>IMPORTANT</u></b></span> :</p>
 
