@@ -13,8 +13,7 @@ post_date: 2017-07-03 20:03:39
 <p style="text-align: center;">Faisons place à nos clowns préférés, <strong><span style="color: #993300;">les Diptik</span></strong>!</p>
 <p style="text-align: center;">Vous les avez découvert avec Hang Up. Ils reviennent pour votre plaisir et le nôtre avec leur nouvelle création <span style="color: #993300;"><b>Postscriptum</b></span>. Ils investissent le Bilboquet pour vous  concocter un nouveau spectacle.</p>
 <p style="text-align: center;">Venez nombreux les découvrir ou redécouvrir les    <span style="color: #993300;"><b>vendredi 2 et samedi 3 Novembre 2018 à 20:30</b></span></p>
-
-<h6 style="text-align: center;"><span style="color: #ff0000;">Le spectacle du 2 Novembre est complet mais il reste encore quelques places pour le samedi 3 - dépêchez vous!</span></h6>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>Complet pour ce soir - merci de votre fidélité!</strong></span></p>
 <p style="text-align: center;"><img class="aligncenter wp-image-1067 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page4-1.jpg" alt="" width="1279" height="452" /></p>
 <p style="text-align: center;">Et en Novembre on a décidé de vous gâter. Il n’y aura pas 1, ni 2 mais 3 spectacles à suivre!</p>
 <p style="text-align: center;">Après les Diptik, la scène deviendra pour un soir un Cabaret avec <span style="color: #993300;"><b>Jenny Lorant &amp; Co pour les Sœurs Semelles</b></span>! cela se passer le <span style="color: #993300;"><b>vendredi 16 Novembre à 20:30</b></span></p>
