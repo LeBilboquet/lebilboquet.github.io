@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-07-03 20:03:39
 ---
-<p style="text-align: center;">Après 2 salles pleines à craquer pour le sDiptik, le Bilboquet continue son Novembre qui prend des airs de cadeau de Noel avant l’heure avec encore 2 spectacles!</p>
+<p style="text-align: center;">Après 2 salles pleines à craquer pour les Diptik, le Bilboquet continue son Novembre qui prend des airs de cadeau de Noel avant l’heure avec encore 2 spectacles!</p>
 <p style="text-align: center;">Le temps d’un soir, votre Bilboquet deviendra un Cabaret avec <span style="color: #993300;"><b>Jenny Lorant &amp; Co pour les Sœurs Semelles </b><span style="color: #000000;">- un spectacle qui mêlera chansons et claquettes dans une atmosphère festive! Encore une soirée à ne pas manquer!</span></span></p>
 <p style="text-align: center;"><span style="color: #993300;"><b>Rendez vous donc le vendredi 16 Novembre à 20:30</b></span></p>
 <p style="text-align: center;"><img class="aligncenter wp-image-1068 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page5-1.jpg" alt="" width="1279" height="452" /></p>
