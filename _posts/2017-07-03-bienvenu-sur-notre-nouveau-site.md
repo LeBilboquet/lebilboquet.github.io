@@ -9,12 +9,8 @@ permalink: >
 published: true
 post_date: 2017-07-03 20:03:39
 ---
-<p style="text-align: center;">Après 2 salles pleines à craquer pour les Diptik, le Bilboquet continue son Novembre qui prend des airs de cadeau de Noel avant l’heure avec encore 2 spectacles!</p>
-<p style="text-align: center;">Le temps d’un soir, votre Bilboquet deviendra un Cabaret avec <span style="color: #993300;"><b>Jenny Lorant &amp; Co pour les Sœurs Semelles </b><span style="color: #000000;">- un spectacle qui mêlera chansons et claquettes dans une atmosphère festive! Encore une soirée à ne pas manquer!</span></span></p>
-<p style="text-align: center;"><span style="color: #993300;"><b>Rendez vous donc le vendredi 16 Novembre à 20:30</b></span></p>
-<p style="text-align: center;"><span style="color: #ff0000;"><b>Le spectacle est complet et nous vous en remercions!</b></span></p>
-<p style="text-align: center;"><img class="aligncenter wp-image-1068 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page5-1.jpg" alt="" width="1279" height="452" /></p>
-<p style="text-align: center;">Pour les fans de Kaamelott, vous le connaissez en tant que tavernier. Cette fois-ci en revanche ils revient avec sa complice pour vous parlez et surtout pour fêter leur divorce.</p>
+<p style="text-align: center;">Une ambiance de folie s’est emparée du Bilboquet avec les Sœurs Semelles! Quelle soirée!</p>
+<p style="text-align: center;">Nous arrivons maintenant au dernier spectacle du mois de Novembre: vous l’avez sûrement vue dans la Maîtresse en Maillot de Baiun et lui en tant que tavernier dans la série Kaamelott . Ils s’allient le temps d’un soir pour fêter leur divorce et ils comptent sur votre présence!</p>
 <p style="text-align: center;">Rendez vous avec <span style="color: #993300;"><strong>ToizéMoi</strong></span></p>
 <p style="text-align: center;"><span style="color: #993300;"><b>Vendredi 23 Novembre à 20:30</b></span></p>
 <img class="aligncenter wp-image-1069 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page6-1.jpg" alt="" width="1279" height="451" />
