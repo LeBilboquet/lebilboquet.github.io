@@ -9,26 +9,26 @@ published: true
 post_date: 2017-07-03 18:48:48
 ---
 <h4 style="text-align: center;"><span style="color: #800000;">Et c'est parti pour les Hors Saisons! Le Bilboquet est ravi d'accueillir...</span></h4>
-<pre style="text-align: center;"><strong>Esprit Soul Edition#1 </strong>
-Soirée Concert - entrée 8,- CHF
+<pre style="text-align: center;"><strong>ACP Production présente: MIRKO ROCHAT </strong>
 
-<strong>Samedi 10 Novembre 2018 à 20:00
-</strong><b>Ouverture des portes à 19:30</b>
+<strong>Jeudi 28 Février 2019 à 20:00
+</strong><b>Ouverture des portes à 19:15</b>
 
-Contact : <a href="mailto:contact@focusrecords.ch">contact@focusrecords.ch</a>
-
+Réservations : <a href="mailto: https://monbillet.ch/events/mirko-rochat-supermale-bilboquet-2019">www.monbillet.ch</a>
+Infos : <a href="mailto: https://monbillet.ch/events/mirko-rochat-supermale-bilboquet-2019">www.mirkorochat.com</a>
 </pre>
-<p style="text-align: center;">À tous les curieux et amateurs de musique, le label musical FOCUS RECORDS vous propose une découverte artistique dans une ambiance intime sur un fond Soul. 5 artistes des 4 coins de la Suisse se présenteront sur la scène du BILBOQUET et vous feront voyager le temps d'une soirée.</p>
+<p style="text-align: center;">2018. J’ai la trentaine. Je ne suis pas un macho, ni un hypersensible. Je suis un homme avec une part de féminité. Et si j’avais été une femme? Et si j’avais été un tout autre homme?
 
-<div dir="auto" style="text-align: center;"><b>Artistes</b>: ⁣</div>
-<div dir="auto" style="text-align: center;">⁣- Raki (Valais)⁣</div>
-<div dir="auto" style="text-align: center;">- Aïna (Fribourg)⁣</div>
-<div dir="auto" style="text-align: center;">- Théodore Tramasure (Genève)⁣ ⁣</div>
-<div dir="auto" style="text-align: center;"></div>
-<div dir="auto" style="text-align: center;"><b>Invités</b>: ⁣</div>
-<div dir="auto" style="text-align: center;">⁣- Woodi (Fribourg)⁣</div>
-<div dir="auto" style="text-align: center;">- Caroline Alves (Bienne)</div>
-<div dir="auto" style="text-align: center;"><img class="aligncenter wp-image-1372 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/10/8E8129FA-F72C-4367-B616-62BE21E561A0.jpeg" alt="" width="794" height="1123" />⁣</div>
+SuperMâle, c’est un mec qui parfois ne pense pas vraiment en être tout à fait un, spécialement lorsque sa part de sensibilité et de féminité s’en mêlent!
+
+SuperMâle, c’est une bande d’angoissés qui essaient d’assumer leurs angoisses sous le regard des autres, donc de vous…
+
+SuperMâle par extension, c’est moi, mais pas que.
+
+SuperMâle, c’est une quinzaine de personnages, hommes ou femmes plus ou moins névrosés qui nous rappellent forcément quelqu’un. Moi? Vous? Lui? Elle? A voir…</p>
+
+<div dir="auto" style="text-align: center;"><img class="aligncenter wp-image-1490 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/07/486AC63B-D8FE-4941-BC77-51C6881D9F9C.jpeg" alt="" width="1464" height="1826" />
+⁣</div>
 
 <hr />
 
