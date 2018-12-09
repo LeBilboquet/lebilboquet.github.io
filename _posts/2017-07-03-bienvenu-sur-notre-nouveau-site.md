@@ -11,7 +11,7 @@ post_date: 2017-07-03 20:03:39
 ---
 <p style="text-align: center;"><img class="aligncenter wp-image-1489 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2017/07/126AC2F0-A9A0-404E-A93F-22EDCF2DA0DE.jpeg" alt="" width="1218" height="690" /></p>
 <p style="text-align: center;">Voxset nous fait vivre deux concerts mémorables! Merci de votre participation si nombreuse cette fin 2018 du Bilboquet était superbe!</p>
-Nous vous donnons maintenant rendez vous après les fêtes de fin d’année avec des artistes que vous connaissez bien et que vous plébiscitez. Ils sont 3 - barbus à souhait - chantent pour les petits et les moins petits...vous voyez de qui nous parlons? Les Petits Chaneurs à la Gueule de Bois envahissent la scène du Bilboquet pour une Carte Blanche pleine de surprises suivie d’un spectacle familial.
+<p style="text-align: center;">Nous vous donnons maintenant rendez vous après les fêtes de fin d’année avec des artistes que vous connaissez bien et que vous plébiscitez. Ils sont 3 - barbus à souhait - chantent pour les petits et les moins petits...vous voyez de qui nous parlons? Les Petits Chaneurs à la Gueule de Bois envahissent la scène du Bilboquet pour une Carte Blanche pleine de surprises suivie d’un spectacle familial.</p>
 <p style="text-align: center;">Ne manquez pas ces 2 représentations des célèbres <strong><span style="color: #993300;">Les Petits Chanteurs à la Gueule de Bois</span><span style="color: #993300;">!</span></strong></p>
 <p style="text-align: center;">Rendez-vous donc au Bilboquet pour</p>
 <p style="text-align: center;"><strong><span style="color: #993300;">la Carte Blanche le</span></strong> <span style="color: #993300;"><strong>Sam</strong><strong>edi 19 Janvier 2019 Décembre à 20:30 </strong></span></p>
