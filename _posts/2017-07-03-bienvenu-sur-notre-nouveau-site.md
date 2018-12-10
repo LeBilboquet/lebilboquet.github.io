@@ -17,7 +17,7 @@ post_date: 2017-07-03 20:03:39
 <p style="text-align: center;">Rendez-vous donc au Bilboquet pour</p>
 <p style="text-align: center;"><strong><span style="color: #993300;">la Carte Blanche le</span></strong> <span style="color: #993300;"><strong>Sam</strong><strong>edi 19 Janvier 2019 Décembre à 20:30 </strong></span></p>
 <p style="text-align: center;"><span style="color: #993300;"><strong>et pour les familles le Dimanche 20 Janvier 2019 à 17:00</strong></span></p>
-<p style="text-align: center;"><span style="color: #ff0000;"><strong><em>La soirée du samedi est complète mais ils reste encore des places pour la représentation familiale du dimanche</em></strong></span></p>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong><em>Les 2 spectacles sont déjà complets - quel public!</em></strong></span></p>
 <img class="aligncenter wp-image-1071 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page8-1.jpg" alt="" width="1279" height="452" />
 
 <img class="aligncenter wp-image-1072 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page9-1.jpg" alt="" width="1279" height="452" />
