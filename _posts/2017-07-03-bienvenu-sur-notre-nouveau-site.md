@@ -23,5 +23,7 @@ post_date: 2017-07-03 20:03:39
 <img class="aligncenter wp-image-1072 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page9-1.jpg" alt="" width="1279" height="452" />
 <p style="text-align: center;"><span style="color: #993300;"><b><u>IMPORTANT</u></b></span> :</p>
 
-<pre>La première soirée de <b><u>Marina Rollman</u></b> est quasiment complète. Comme pour Voxset, votre Bilboquet vous propose une soirée supplémentaire <b><u>le samedi 16 Mars 2018 à 20:30</u></b>.</pre>
+<pre><span style="color: #ff0000;"><strong>Le spectacle de Gabriel Tornay du vendredi 25 Janvier est complet.</strong></span>
+
+La première soirée de <b><u>Marina Rollman</u></b> est   quasiment complète. Votre Bilboquet vous   propose une soirée supplémentaire <b><u>le samedi 16 Mars 2018 à 20:30</u></b>.</pre>
 &nbsp;
