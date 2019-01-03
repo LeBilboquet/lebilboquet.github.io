@@ -8,18 +8,19 @@ permalink: http://www.lebilboquet.ch/hors-saison/
 published: true
 post_date: 2017-07-03 18:48:48
 ---
-&nbsp;
-
 <hr />
 
 <h4 style="text-align: center;"><span style="color: #800000;">Et c'est parti pour les Hors Saisons! Le Bilboquet est ravi d'accueillir...</span></h4>
-<pre style="text-align: center;"><strong>ACP Production présente: MIRKO ROCHAT </strong>
+<pre style="text-align: center;"><strong>ACP Production présente: 
+MIRKO ROCHAT </strong>
 
 <strong>Jeudi 28 Février 2019 à 20:00
 </strong><b>Ouverture des portes à 19:15</b>
 
-<b>Réservations</b> : <a href="mailto: https://monbillet.ch/events/mirko-rochat-supermale-bilboquet-2019">www.monbillet.ch</a>
-<b>Infos</b> : <a href="http://www.mirkorochat.com">http://www.mirkorochat.com</a>
+<b>Réservations en ligne</b>
+<a href="https://monbillet.ch/events/mirko-rochat-supermale-bilboquet-2019">https://monbillet.ch/events/mirko-rochat-supermale-bilboquet-2019</a>
+<b>
+Infos</b> : <a href="http://www.mirkorochat.com">http://www.mirkorochat.com</a>
 </pre>
 <p style="text-align: center;">2018. J’ai la trentaine. Je ne suis pas un macho, ni un hypersensible. Je suis un homme avec une part de féminité. Et si j’avais été une femme? Et si j’avais été un tout autre homme?</p>
 <p style="text-align: center;">SuperMâle, c’est un mec qui parfois ne pense pas vraiment en être tout à fait un, spécialement lorsque sa part de sensibilité et de féminité s’en mêlent!</p>
