@@ -4,7 +4,7 @@ post_title: Hors Saison
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: https://www.lebilboquet.ch/hors-saison/
+permalink: http://www.lebilboquet.ch/hors-saison/
 published: true
 post_date: 2017-07-03 18:48:48
 ---
