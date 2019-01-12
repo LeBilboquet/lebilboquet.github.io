@@ -5,7 +5,7 @@ author: bilboadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.lebilboquet.ch/bienvenu-sur-notre-nouveau-site/
+  https://www.lebilboquet.ch/bienvenu-sur-notre-nouveau-site/
 published: true
 post_date: 2017-07-03 20:03:39
 ---
@@ -23,6 +23,6 @@ post_date: 2017-07-03 20:03:39
 <img class="aligncenter wp-image-1073 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page10-1.jpg" alt="" width="1279" height="452" />
 <pre style="text-align: center;"><span style="color: #993300;"><b><u>IMPORTANT</u></b></span> :
 
-La deux soirées de <b><u>Marina Rollman</u></b> sont complets 
+Les deux soirées de <b><u>Marina Rollman</u></b> sont complètes  
 (vendredi 15 et samedi 16 mars 2019)
 <span style="color: #993300;"><strong>Un Énorme MERCI à tout le monde pour votre Fidélité </strong></span></pre>
