@@ -4,13 +4,26 @@ post_title: Hors Saison
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: http://www.lebilboquet.ch/hors-saison/
+permalink: https://www.lebilboquet.ch/hors-saison/
 published: true
 post_date: 2017-07-03 18:48:48
 ---
 <hr />
 
 <h4 style="text-align: center;"><span style="color: #800000;">Et c'est parti pour les Hors Saisons! Le Bilboquet est ravi d'accueillir...</span></h4>
+<pre style="text-align: center;"><strong>L’Atelier de Chant du Conservatoire présente
+
+EN ATTENDANT LE PRINCE CHARMANT 
+
+</strong><strong>Samedi 23 Février à 20:00 
+Dimanche 24 Février 2019 à 17:00 
+</strong><b>Réservations par téléphone: 079 567 68 04
+
+ENTREE LIBRE - COLLECTE</b></pre>
+<p style="text-align: center;"><span class="s2">L’atelier de chant du conservatoire revient au Bilboquet présenter son nouveau spectacle « en attendant le prince charmant ».</span></p>
+<p style="text-align: center;"><span class="s2">Il était une nuit  ... une belle au bois dormant narcoleptique, un ogre pacifique, une fée Clochette boulimique, une Mary </span><span class="s2">Poppins</span><span class="s2"> au chômage et bien d’autres personnages de contes que vous allez sûrement reconnaître… tous se retrouvent chez Bruno, patron d’un bar improbable et attendent des temps meilleurs.</span></p>
+<p style="text-align: center;"><span class="s2">Un florilège enchanteur d’airs, duo, ensembles, chœurs choisis dans des œuvres de Purcell, Mozart, Rossini. Mendelssohn, Ibert … Disney… mis en scène par Sophie </span><span class="s2">Marilley</span><span class="s2">, accompagnés au piano par véronique Piller.</span></p>
+<img class="aligncenter wp-image-1624 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2019/02/86977F04-A198-4C74-A976-1B1829D5F4DC.jpeg" alt="" width="226" height="320" />
 <pre style="text-align: center;"><strong>ACP Production présente: 
 MIRKO ROCHAT </strong>
 
