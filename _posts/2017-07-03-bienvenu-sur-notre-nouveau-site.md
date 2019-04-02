@@ -5,12 +5,18 @@ author: bilboadmin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://www.lebilboquet.ch/bienvenu-sur-notre-nouveau-site/
+  https://www.lebilboquet.ch/bienvenu-sur-notre-nouveau-site/
 published: true
 post_date: 2017-07-03 20:03:39
 ---
-<p style="text-align: center;">Place à nos petits ce week end - ils seront cueillis par <span style="color: #993300;"><b>Elise Joder</b></span> de la compagnie Rikiko. Elles vous présentera son spectacle: L’oeuf dans tout ses éclats. Une magnifique mise en scène  pour les petits et leurs parents et aussi les marionnettes en récup...</p>
-<p style="text-align: center;">Les petites têtes blondes...et toutes les autres aussi sont conviées le <strong><span style="color: #993300;">dimanche 31 Mars 2019 à 10:30 suivi du fameux Apéro Sirop Bilbo et à  15:00 pour un Goûter Pain Choco Bilbo</span></strong></p>
-<p style="text-align: center;"><span style="color: #ff0000;"><b>IMPORTANT</b></span>: <b>la séance du matin est complète</b></p>
-<img class="aligncenter wp-image-1077 size-full" src="//www.lebilboquet.ch/wp-content/uploads/2018/06/Page14-1.jpg" alt="" width="1279" height="452" />
-<p style="text-align: center;"></p>
+<p style="text-align: center;">Après ce moment d’amusement intense autour de l’oeuf de Pâcques le Bilboquet fait place à un humoriste connu et reconnu en la personne de <span style="color: #993300;"><b>Thierry Meury.</b></span></p>
+<p style="text-align: center;">Il vient vous présenter son nouveau spectacle « Il reste encore un peu de place » et sera sur nos planches le <span style="color: #993300;"><b>Vendredi 5 Avril à 20:30</b></span>.</p>
+<p style="text-align: center;"><span style="color: #ff0000;"><b>IMPORTANT</b></span>: malheureusement il n’y a plus de place - on dit merci qui?</p>
+<p style="text-align: center;"><span style="color: #ff0000;"><b>Merci le public du Bilboquet!</b></span></p>
+<p style="text-align: center;"><img class="aligncenter wp-image-1053 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page15.jpg" alt="" width="1279" height="451" /></p>
+<p style="text-align: center;">Nous allons ensuite clore notre saison...oui les meilleures choses ont une fin...mais ce n’est que pour mieux préparer la programmation prochaine!</p>
+<p style="text-align: center;">Vous avez rendez vous avec <span style="color: #993300;"><b>Nicolas Devort</b></span> qui sera des nôtres le <span style="color: #993300;"><b>vendredi 12 Avril à 20:30</b></span>.</p>
+<p style="text-align: center;">A travers l’histoire de Colin, fraîchement rentrer au collège, notre artiste vous emmènera dans</p>
+<p style="text-align: center;"><span style="color: #993300;"><b>La Peau de Cyrano</b></span></p>
+<p style="text-align: center;"><b><span style="color: #993300;">Ce spectacle est notre coup de cœur du Festival Off d’Avignon</span><span style="color: #993300;">!</span></b></p>
+<img class="aligncenter wp-image-1054 size-full" src="http://www.lebilboquet.ch/wp-content/uploads/2018/06/Page16.jpg" alt="" width="1279" height="452" />
