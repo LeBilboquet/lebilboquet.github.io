@@ -4,14 +4,14 @@ post_title: Hors Saison
 author: bilboadmin
 post_excerpt: ""
 layout: page
-permalink: http://www.lebilboquet.ch/hors-saison/
+permalink: https://www.lebilboquet.ch/hors-saison/
 published: true
 post_date: 2017-07-03 18:48:48
 ---
 <hr />
 
 <h4 style="text-align: center;"><span style="color: #800000;">Et c'est parti pour les Hors Saisons! Le Bilboquet est ravi d'accueillir...</span></h4>
-<pre style="text-align: center;"><strong>La Troupe des Casseroles vous présente
+<pre style="text-align: center;"><strong>La Troupe des Cass Rôles vous présente
 
 8 FEMMES 
 une pièce de Robert Thomas
